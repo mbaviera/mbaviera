@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo <b>Mateus</b>, sou formado em Engenharia de Computação e trabalho como desenvolvedor <b>Front-End e Mobile</b>.
 - 👀 Possuo habilidades em <b>JavaScript, HTML, CSS, ReactJS, React Native, NodeJS, API Rest</b>, entre outros.
-- 🌱 Atualmente estou estudando <b>tecnologias de back-end</b> e também front-end.
+- 🌱 Atualmente estou estudando <b>tecnologias de back-end</b> (e também front-end).
 
 <br/>
 
