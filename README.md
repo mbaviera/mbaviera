@@ -1,6 +1,6 @@
-- 👋 Desenvolvedor <b>Front-End e Mobile</b>.
-- 👀 <b>JavaScript, HTML, CSS, React, React Native, Node, API's</b>, entre outros.
-- 🌱 Atualmente estudando <b>tecnologias de back-end</b>.
+- 👋 Desenvolvedor de software <b>Front-End e Mobile</b>, e nas horas vagas Appreneur.
+- ⚙️ <b>JavaScript, HTML, CSS, React, React Native, Node, API's</b>, e outros.
+- 💻 Atualmente estudando <b>tecnologias de back-end</b>.
 
 <br/>
 
