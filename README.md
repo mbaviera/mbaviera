@@ -1,5 +1,5 @@
 - 👋 Desenvolvedor de software <b>Mobile e Web</b>.
-- 💻 Nas horas vagas desenvolvo aplicativos de forma independente -> https://bit.ly/3ifQXKt
+- 💻 Nas horas vagas desenvolvo aplicativos pra PlayStore -> https://bit.ly/3ifQXKt
 - ⚙️ Javascript, React, React Native, Html, CSS, Node, Api's...
 
 <br/>
