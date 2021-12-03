@@ -1,4 +1,4 @@
-- 👋 Desenvolvedor de software <b>Mobile e Web</b>.
+- 👋 Desenvolvedor <b>Mobile e Web</b>.
 - 💻 Também desenvolvo aplicativos pra PlayStore -> https://bit.ly/3ifQXKt
 - ⚙️ Javascript, Typescript, React, React Native, Html, CSS, Node, Api's...
 
