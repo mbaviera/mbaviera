@@ -1,8 +1,9 @@
-- 👋 Desenvolvedor <b>Mobile e Web</b>.
-- 💻 Também desenvolvo aplicativos pra PlayStore -> https://bit.ly/3qhYOtQ
-- ⚙️ Javascript, Typescript, React, React Native, Html, CSS, Node, Api's...
-
+Olá 👋
+Me chamo Mateus Rocha Baviera 👨‍🚀. Atualmente sou desenvolvedor mobile e web. Tambem ja trabalhei com testes de software.
 <br/>
+⚙️ Minhas principais stacks são: Javascript, Typescript, React, React Native, CSS, API com Node.js, Postgres, Mongo.
+💻 Também desenvolvo aplicativos pra PlayStore -> https://bit.ly/3qhYOtQ
+🎓 Sou formado em Engenharia de Computação, e possuo certificação CTFL em testes de software
 
 https://www.linkedin.com/in/mateus-rocha-baviera/
 
