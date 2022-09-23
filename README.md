@@ -1,4 +1,4 @@
-<br/>Desenvolvedor Mobile.<br/>
+<br/>Desenvolvedor Mobile React Native, Javascript, Node.js.<br/>
 
 https://www.linkedin.com/in/mateus-rocha-baviera/
 
